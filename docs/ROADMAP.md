@@ -36,7 +36,7 @@ Every interface part becomes an object in the flat. These are suggestions to rea
 | Weather | The window itself: if it's dry outside it's foggy in the city, if it's raining/snowing it rains. if it's hot it lightens to glow dawn shades, then bright blue glowing skies at very high hot temperatures. if it's cold it darkens to glow dusk shades, then pitch black skies at very low cold temperatures |
 | App launcher | Drawing a tarot card from the deck: each card you draw opens one new app window |
 | Session menu (sleep, lock, logout, reboot, shut down) | Snuffing candles: each a different ending ritual: sleep, lock, logout, reboot, shutdown. Each candle is its own colour, darkening with how final it is: sleep is lavender, and the others grow deeper in shade up to shutdown. They stand behind the bed (the bed has no headboard). Night light is the blinds on the window or another candle? |
-| Workspaces | Each workspace is its own tarot reading: one card per open app window in that workspace, as many cards as you have windows open there. The reading of the workspace you're on is laid out where you can see it, and switching workspace swaps the spread |
+| Workspaces | Each workspace is its own tarot reading: one card per open app window in that workspace, as many cards as you have windows open there. The reading of the workspace you're on floats beside the deck on a little hologram at the very top of the screen, and switching workspace swaps the spread |
 | Window manager | Tiling but also movable overlays over the whole scene like holographic displays, they overlay: bookshelves (roughly left third of screen), floor (roughly bottom third of screen) right_wall (roughly right fifth of screen), and the window as default tiles |
 | Terminal | Neon (scratch-n-sniff paper almost) on black spell-book you write into |
 | Notifications | The familiar is the notification feed: speech bubbles from the familiar with a cute noise. It also pops up now and then with a positive message or affirmation from a self-love / affirmation widget |
@@ -45,15 +45,21 @@ Every interface part becomes an object in the flat. These are suggestions to rea
 | Volume | The ritual circle: it grows bigger and more runically complex as the volume goes up. Scroll on it to raise or lower the volume |
 | Battery | The ritual circle glows brighter or dimmer with the battery level |
 | Brightness | The literal electric light(s) in the room that light the scene. Scroll on a light to raise or lower brightness |
-| Wi-fi and bluetooth | Two holographic, neon-framed video-call windows on the right-hand wall, like portraits or FaceTime: one for wi-fi, one for bluetooth. Connected: friends on the screen and a glowing frame. Not connected: blank and dim. Scroll on one to switch between wi-fi networks or bluetooth devices |
-| Pomodoro timer | An hourglass (off the window ledge, which stays clear) |
+| Wi-fi and bluetooth | Two holographic, neon-framed video-call windows on the left wall, between the bookshelves and the window, like portraits or FaceTime: one for wi-fi, one for bluetooth. Connected: friends on the screen and a glowing frame. Not connected: blank and dim. Scroll on one to switch between wi-fi networks or bluetooth devices |
+| Pomodoro timer | An hourglass, standing on a little wing of the spellbook's lectern |
 | File manager | Apothecary and herbal plants of different kinds (file types?) being grown in their small pots on the shelves |
 
-**The room's layout.** The walls, ceiling and floor follow the lofi-vibes-4k picture, and things
-sit roughly where that picture puts them. The desk has moved out of the back-left corner and now
-stands free, left of centre; the big screen and the desk nook are gone, and there is no chair. The
-window ledge stays clear apart from the familiar. The bed is in the far right, against the wall,
-with the wi-fi and bluetooth windows on the wall above it.
+**The room's layout.** The walls, ceiling and floor follow the lofi-vibes-4k picture: one-point
+perspective, with the vanishing point at the far right edge at eye level, so the left wall shows wide
+and the right wall hardly at all. Bookshelves run along the left wall, with the wi-fi and bluetooth
+call windows on the wall between them and the window. The window fills most of the far wall, from
+the ceiling (only the rolled blinds sit between them) down to a low seat near the floor, which stays
+clear apart from the familiar. The spellbook lies open on a lectern in front of the shelves, with
+the hourglass on its side wing. The ritual circle and its portal stand in front of the window. The
+bed is in the far right corner, head to the back wall, with the candles on a shelf behind it. The
+hanging light is a little ringed planet in the top right. The deck and the current reading float on
+a small hologram at the very top of the screen, above the blinds. There is no bar, desk, chair, big
+screen or desk nook.
 
 ## Steps
 
