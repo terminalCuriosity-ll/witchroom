@@ -34,16 +34,26 @@ Every interface part becomes an object in the flat. These are suggestions to rea
 | Clock | In the window, moon rises + sets in hour-segments according to time (at 00:00 it's at its highest, at 12:00 it's below the horizon, at 18:00 it's halfway to returning to its highest spot, etc.) and it shows the current moon phase on it |
 | Bar | No bar |
 | Weather | The window itself: if it's dry outside it's foggy in the city, if it's raining/snowing it rains. if it's hot it lightens to glow dawn shades, then bright blue glowing skies at very high hot temperatures. if it's cold it darkens to glow dusk shades, then pitch black skies at very low cold temperatures |
-| App launcher | Drawing a tarot card from the deck: therefore the workspaces are each a different tarot drawing/reading |
-| Session menu (sleep, lock, logout, reboot, shut down) | Snuffing candles: each a different ending ritual: sleep, lock, logout, reboot, shutdown. night light is the blinds on the window or another candle? |
-| Workspaces | Each a tarot reading made with the app launcher |
+| App launcher | Drawing a tarot card from the deck: each card you draw opens one new app window |
+| Session menu (sleep, lock, logout, reboot, shut down) | Snuffing candles: each a different ending ritual: sleep, lock, logout, reboot, shutdown. Each candle is its own colour, darkening with how final it is: sleep is lavender, and the others grow deeper in shade up to shutdown. They stand behind the bed (the bed has no headboard). Night light is the blinds on the window or another candle? |
+| Workspaces | Each workspace is its own tarot reading: one card per open app window in that workspace, as many cards as you have windows open there. The reading of the workspace you're on is laid out where you can see it, and switching workspace swaps the spread |
 | Window manager | Tiling but also movable overlays over the whole scene like holographic displays, they overlay: bookshelves (roughly left third of screen), floor (roughly bottom third of screen) right_wall (roughly right fifth of screen), and the window as default tiles |
 | Terminal | Neon (scratch-n-sniff paper almost) on black spell-book you write into |
-| Notifications | Familiar's messages: speech bubbles from the familiar with a cute noise. the familiar also displays speech bubble inspirational/self-worth messages of encouragement from time to time |
+| Notifications | The familiar is the notification feed: speech bubbles from the familiar with a cute noise. It also pops up now and then with a positive message or affirmation from a self-love / affirmation widget |
 | Browser (Zen) | Neon glowing & flickering digital apparition/portals summoned from the summoning circle |
-| Control center | The ritual circle: neon-colored dials for volume, brightness, battery, and wi-fi and bluetooth connections |
-| Pomodoro timer | An hourglass |
+| Control center | No single panel any more: it is spread across the room (the next four rows) |
+| Volume | The ritual circle: it grows bigger and more runically complex as the volume goes up. Scroll on it to raise or lower the volume |
+| Battery | The ritual circle glows brighter or dimmer with the battery level |
+| Brightness | The literal electric light(s) in the room that light the scene. Scroll on a light to raise or lower brightness |
+| Wi-fi and bluetooth | Two holographic, neon-framed video-call windows on the right-hand wall, like portraits or FaceTime: one for wi-fi, one for bluetooth. Connected: friends on the screen and a glowing frame. Not connected: blank and dim. Scroll on one to switch between wi-fi networks or bluetooth devices |
+| Pomodoro timer | An hourglass (off the window ledge, which stays clear) |
 | File manager | Apothecary and herbal plants of different kinds (file types?) being grown in their small pots on the shelves |
+
+**The room's layout.** The walls, ceiling and floor follow the lofi-vibes-4k picture, and things
+sit roughly where that picture puts them. The desk has moved out of the back-left corner and now
+stands free, left of centre; the big screen and the desk nook are gone, and there is no chair. The
+window ledge stays clear apart from the familiar. The bed is in the far right, against the wall,
+with the wi-fi and bluetooth windows on the wall above it.
 
 ## Steps
 
