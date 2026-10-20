@@ -31,19 +31,40 @@ Every interface part becomes an object in the flat. These are suggestions to rea
 
 | Interface part | Object in the room (idea) |
 |---|---|
-| Clock | In the window, moon rises + sets in hour-segments according to time (at 00:00 it's at its highest, at 12:00 it's below the horizon, at 18:00 it's halfway to returning to its highest spot, etc.) and it shows the current moon phase on it |
+| Clock | In the window, moon rises + sets in hour-segments according to time (at 00:00 it's at its highest, at 12:00 it's below the horizon, at 18:00 it's halfway to returning to its highest spot, etc.) and it shows the current moon phase on it. Its path is only implied (no drawn track), and it passes behind everything in the city |
 | Bar | No bar |
 | Weather | The window itself: if it's dry outside it's foggy in the city, if it's raining/snowing it rains. if it's hot it lightens to glow dawn shades, then bright blue glowing skies at very high hot temperatures. if it's cold it darkens to glow dusk shades, then pitch black skies at very low cold temperatures |
-| App launcher | Drawing a tarot card from the deck: therefore the workspaces are each a different tarot drawing/reading |
-| Session menu (sleep, lock, logout, reboot, shut down) | Snuffing candles: each a different ending ritual: sleep, lock, logout, reboot, shutdown. night light is the blinds on the window or another candle? |
-| Workspaces | Each a tarot reading made with the app launcher |
-| Window manager | Tiling but also movable overlays over the whole scene like holographic displays, they overlay: bookshelves (roughly left third of screen), floor (roughly bottom third of screen) right_wall (roughly right fifth of screen), and the window as default tiles |
+| App launcher | Drawing a tarot card from the deck: each card you draw opens one new app window |
+| Session menu (sleep, lock, logout, reboot, shut down) | Snuffing candles: each a different ending ritual: sleep, lock, logout, reboot, shutdown. Each candle is its own colour, darkening with how final it is: sleep is lavender, and the others grow deeper in shade up to shutdown. They stand behind the bed (the bed has no headboard). Night light is the blinds on the window or another candle? |
+| Workspaces | Each workspace is its own tarot reading: one card per open app window in that workspace, as many cards as you have windows open there. The reading of the workspace you're on floats beside the deck on a little hologram at the very top of the screen, and switching workspace swaps the spread |
+| Window manager | Tiling but also movable overlays over the whole scene like holographic displays, they overlay: bookshelves (roughly left third of screen), floor (roughly bottom third of screen) right_wall (roughly right fifth of screen), and the window as default tiles. Each tile stops at the edge of its own area, and no two tiles overlap |
 | Terminal | Neon (scratch-n-sniff paper almost) on black spell-book you write into |
-| Notifications | Familiar's messages: speech bubbles from the familiar with a cute noise. the familiar also displays speech bubble inspirational/self-worth messages of encouragement from time to time |
-| Browser (Zen) | Neon glowing & flickering digital apparition/portals summoned from the summoning circle |
-| Control center | The ritual circle: neon-colored dials for volume, brightness, battery, and wi-fi and bluetooth connections |
-| Pomodoro timer | An hourglass |
-| File manager | Apothecary and herbal plants of different kinds (file types?) being grown in their small pots on the shelves |
+| Notifications | The familiar is the notification feed: speech bubbles from the familiar with a cute noise. It also pops up now and then with a positive message or affirmation from a self-love / affirmation widget. The familiar sleeps curled up on the end of the bed, and her messages appear in the bottom-right corner of the screen without covering her |
+| Browser (Zen) | Neon glowing & flickering digital apparition/portals summoned from the summoning circle (designed in a later step) |
+| Control center | No single panel any more: it is spread across the room (the next four rows) |
+| Volume | The ritual circle, drawn on the bed: simple, with a light cyber touch. It grows bigger and more runically complex as the volume goes up. Scroll on it to raise or lower the volume |
+| Battery | The ritual circle glows brighter or dimmer with the battery level |
+| Brightness | The literal electric light(s) in the room that light the scene. Scroll on a light to raise or lower brightness |
+| Wi-fi and bluetooth | One round, porthole-like holographic display on the left wall, between the bookshelves and the window, split into two halves like video calls, with no border between them: wi-fi on top, bluetooth below. Connected: friends on the screen and a glowing frame. Idle (nothing connected): a soft teal glow in level bands, like the round window in the room pictures. Scroll on one to switch between wi-fi networks or bluetooth devices |
+| Pomodoro timer | An hourglass, standing among the books on one of the bookshelves |
+| File manager | The books on the bookshelves (the potted herbs on the shelves are just for looks) |
+
+**The room's layout.** The walls, ceiling and floor follow the lofi-vibes-4k picture: one-point
+perspective, with the vanishing point at the far right edge at eye level, so the left wall shows wide
+and the right wall hardly at all. Bookshelves run along the left wall, with the round wi-fi and
+bluetooth porthole on the wall between them and the window. The window fills most of the far wall,
+from the ceiling (only the rolled blinds sit between them) down to a low seat near the floor, which
+stays clear. The ledge and a small goth altar at its left end are one built-in piece, with the same
+dark wood, pointed arches and lace; the altar sits under the porthole, and the spellbook lies open on
+a book stand on top of it. Out in the city, hover trains cross between lit towers, and two
+megastructures rise behind the nearer rows: twin spires, with a stepped tower half hidden behind them. The hourglass and a lava lamp stand among the books. The bed is in the far right corner, head to
+the back wall, a little longer than before, with the ritual circle drawn on it, the candles on a shelf
+behind it and the familiar curled up on its end. The light is a moon lamp on a plain cord, hanging in
+the top right. Five plants, each a different kind and each on its own, are just for looks: a monstera
+on the floor by the altar, an English ivy trailing off the altar, a string of pearls on a shelf, a
+pothos hanging by the window and a fern hanging lower than the light. The deck and the current reading float on a slim hologram
+above the window, over the blinds but never over the glass. There is no bar, desk, chair, big screen
+or desk nook.
 
 ## Steps
 
