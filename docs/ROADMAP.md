@@ -40,26 +40,26 @@ Every interface part becomes an object in the flat. These are suggestions to rea
 | Window manager | Tiling but also movable overlays over the whole scene like holographic displays, they overlay: bookshelves (roughly left third of screen), floor (roughly bottom third of screen) right_wall (roughly right fifth of screen), and the window as default tiles |
 | Terminal | Neon (scratch-n-sniff paper almost) on black spell-book you write into |
 | Notifications | The familiar is the notification feed: speech bubbles from the familiar with a cute noise. It also pops up now and then with a positive message or affirmation from a self-love / affirmation widget |
-| Browser (Zen) | Neon glowing & flickering digital apparition/portals summoned from the summoning circle |
+| Browser (Zen) | Neon glowing & flickering digital apparition/portals summoned from the summoning circle (designed in a later step) |
 | Control center | No single panel any more: it is spread across the room (the next four rows) |
-| Volume | The ritual circle: it grows bigger and more runically complex as the volume goes up. Scroll on it to raise or lower the volume |
+| Volume | The ritual circle, drawn on the bed: simple, with a light cyber touch. It grows bigger and more runically complex as the volume goes up. Scroll on it to raise or lower the volume |
 | Battery | The ritual circle glows brighter or dimmer with the battery level |
 | Brightness | The literal electric light(s) in the room that light the scene. Scroll on a light to raise or lower brightness |
-| Wi-fi and bluetooth | Two holographic, neon-framed video-call windows on the left wall, between the bookshelves and the window, like portraits or FaceTime: one for wi-fi, one for bluetooth. Connected: friends on the screen and a glowing frame. Not connected: blank and dim. Scroll on one to switch between wi-fi networks or bluetooth devices |
-| Pomodoro timer | An hourglass, standing on a little wing of the spellbook's lectern |
-| File manager | Apothecary and herbal plants of different kinds (file types?) being grown in their small pots on the shelves |
+| Wi-fi and bluetooth | One round, porthole-like holographic display on the left wall, between the bookshelves and the window, split into two halves like video calls: wi-fi on top, bluetooth below. Connected: friends on the screen and a glowing frame. Not connected: blank and dim. Scroll on one to switch between wi-fi networks or bluetooth devices |
+| Pomodoro timer | An hourglass, standing among the books on one of the bookshelves |
+| File manager | The books on the bookshelves (the potted herbs on the shelves are just for looks) |
 
 **The room's layout.** The walls, ceiling and floor follow the lofi-vibes-4k picture: one-point
 perspective, with the vanishing point at the far right edge at eye level, so the left wall shows wide
-and the right wall hardly at all. Bookshelves run along the left wall, with the wi-fi and bluetooth
-call windows on the wall between them and the window. The window fills most of the far wall, from
-the ceiling (only the rolled blinds sit between them) down to a low seat near the floor, which stays
-clear apart from the familiar. The spellbook lies open on a lectern in front of the shelves, with
-the hourglass on its side wing. The ritual circle and its portal stand in front of the window. The
-bed is in the far right corner, head to the back wall, with the candles on a shelf behind it. The
-hanging light is a little ringed planet in the top right. The deck and the current reading float on
-a small hologram at the very top of the screen, above the blinds. There is no bar, desk, chair, big
-screen or desk nook.
+and the right wall hardly at all. Bookshelves run along the left wall, with the round wi-fi and
+bluetooth porthole on the wall between them and the window. The window fills most of the far wall,
+from the ceiling (only the rolled blinds sit between them) down to a low seat near the floor, which
+stays clear apart from the familiar. The spellbook lies open on a lectern in front of the shelves,
+and the hourglass stands among the books. The bed is in the far right corner, head to the back wall,
+with the ritual circle drawn on it and the candles on a shelf behind it. The light is a moon lamp in
+a zigzag cradle, hanging in the top right. The deck and the current reading float on a slim hologram
+above the window, over the blinds but never over the glass. There is no bar, desk, chair, big screen
+or desk nook.
 
 ## Steps
 
