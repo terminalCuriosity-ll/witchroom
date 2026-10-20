@@ -31,7 +31,7 @@ Every interface part becomes an object in the flat. These are suggestions to rea
 
 | Interface part | Object in the room (idea) |
 |---|---|
-| Clock | In the window, moon rises + sets in hour-segments according to time (at 00:00 it's at its highest, at 12:00 it's below the horizon, at 18:00 it's halfway to returning to its highest spot, etc.) and it shows the current moon phase on it |
+| Clock | In the window, moon rises + sets in hour-segments according to time (at 00:00 it's at its highest, at 12:00 it's below the horizon, at 18:00 it's halfway to returning to its highest spot, etc.) and it shows the current moon phase on it. Its path is only implied (no drawn track), and it passes behind everything in the city |
 | Bar | No bar |
 | Weather | The window itself: if it's dry outside it's foggy in the city, if it's raining/snowing it rains. if it's hot it lightens to glow dawn shades, then bright blue glowing skies at very high hot temperatures. if it's cold it darkens to glow dusk shades, then pitch black skies at very low cold temperatures |
 | App launcher | Drawing a tarot card from the deck: each card you draw opens one new app window |
@@ -57,7 +57,7 @@ from the ceiling (only the rolled blinds sit between them) down to a low seat ne
 stays clear. The ledge and a small goth altar at its left end are one built-in piece, with the same
 dark wood, pointed arches and lace; the altar sits under the porthole, and the spellbook lies open on
 a book stand on top of it. Out in the city, hover trains cross between lit towers, and two
-megastructures rise behind the nearer rows. The hourglass and a lava lamp stand among the books. The bed is in the far right corner, head to
+megastructures rise behind the nearer rows: twin spires, with a stepped tower half hidden behind them. The hourglass and a lava lamp stand among the books. The bed is in the far right corner, head to
 the back wall, a little longer than before, with the ritual circle drawn on it, the candles on a shelf
 behind it and the familiar curled up on its end. The light is a moon lamp on a plain cord, hanging in
 the top right. Five plants, each a different kind and each on its own, are just for looks: a monstera
