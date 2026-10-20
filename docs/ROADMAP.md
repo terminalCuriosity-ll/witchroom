@@ -31,19 +31,19 @@ Every interface part becomes an object in the flat. These are suggestions to rea
 
 | Interface part | Object in the room (idea) |
 |---|---|
-| Clock | A candle burning down, or a moon phase in the window |
-| Bar | The shelf along the wall, holding the other objects |
-| Weather | The window itself: rain, fog, neon glow outside |
-| App launcher | Drawing a tarot card from the deck |
-| Session menu (sleep, lock, logout, reboot, shut down) | Snuffing candles: each a different ending ritual |
-| Workspaces | Altars or corners of the room |
-| Window manager | The room's layout: where things are placed |
-| Terminal | A scrying mirror or spellbook you write into |
-| Notifications | Familiar's messages, or letters slipped under the door |
-| Browser (Zen) | A portal or crystal ball onto the outside world |
-| Control center | The ritual circle: dials for sound, light, power, signal |
-| Screen time | An hourglass |
-| File manager | A chest of drawers, an apothecary cabinet |
+| Clock | In the window, moon rises + sets in hour-segments according to time (at 00:00 it's at its highest, at 12:00 it's below the horizon, at 18:00 it's halfway to returning to its highest spot, etc.) and it shows the current moon phase on it |
+| Bar | No bar |
+| Weather | The window itself: if it's dry outside it's foggy in the city, if it's raining/snowing it rains. if it's hot it lightens to glow dawn shades, then bright blue glowing skies at very high hot temperatures. if it's cold it darkens to glow dusk shades, then pitch black skies at very low cold temperatures |
+| App launcher | Drawing a tarot card from the deck: therefore the workspaces are each a different tarot drawing/reading |
+| Session menu (sleep, lock, logout, reboot, shut down) | Snuffing candles: each a different ending ritual: sleep, lock, logout, reboot, shutdown. night light is the blinds on the window or another candle? |
+| Workspaces | Each a tarot reading made with the app launcher |
+| Window manager | Tiling but also movable overlays over the whole scene like holographic displays, they overlay: bookshelves (roughly left third of screen), floor (roughly bottom third of screen) right_wall (roughly right fifth of screen), and the window as default tiles |
+| Terminal | Neon (scratch-n-sniff paper almost) on black spell-book you write into |
+| Notifications | Familiar's messages: speech bubbles from the familiar with a cute noise. the familiar also displays speech bubble inspirational/self-worth messages of encouragement from time to time |
+| Browser (Zen) | Neon glowing & flickering digital apparition/portals summoned from the summoning circle |
+| Control center | The ritual circle: neon-colored dials for volume, brightness, battery, and wi-fi and bluetooth connections |
+| Pomodoro timer | An hourglass |
+| File manager | Apothecary and herbal plants of different kinds (file types?) being grown in their small pots on the shelves |
 
 ## Steps
 
