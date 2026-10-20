@@ -72,6 +72,7 @@ or desk nook.
 - Read the word list above; ask about anything.
 - Gather the vibe: a few images, songs, games or films that feel like her room. We turn
   them into a mood board and a written design language (palette, type, shapes, motion).
+- Done 20 Oct 2026: the look is **Synth Noir CMYKI**, written up in `design/DESIGN_LANGUAGE.md`.
 
 ### 1. Lay the foundation  <- RESUME HERE
 Goal: a tiny, plain witchroom config that boots your laptop.
