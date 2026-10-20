@@ -54,14 +54,15 @@ perspective, with the vanishing point at the far right edge at eye level, so the
 and the right wall hardly at all. Bookshelves run along the left wall, with the round wi-fi and
 bluetooth porthole on the wall between them and the window. The window fills most of the far wall,
 from the ceiling (only the rolled blinds sit between them) down to a low seat near the floor, which
-stays clear apart from a lava lamp at its right-hand edge. Out in the city, hover trains cross between
-lit towers and two megastructures. The spellbook lies open on a book stand on a small goth altar under
-the porthole, and the hourglass stands among the books. The bed is in the far right corner, head to
+stays clear. The ledge and a small goth altar at its left end are one built-in piece, with the same
+dark wood, pointed arches and lace; the altar sits under the porthole, and the spellbook lies open on
+a book stand on top of it. Out in the city, hover trains cross between lit towers, and two
+megastructures rise behind the nearer rows. The hourglass and a lava lamp stand among the books. The bed is in the far right corner, head to
 the back wall, a little longer than before, with the ritual circle drawn on it, the candles on a shelf
 behind it and the familiar curled up on its end. The light is a moon lamp on a plain cord, hanging in
-the top right. Six plants, each a different kind and each on its own, are just for looks: a monstera
-on the floor, a snake plant by the altar, a cactus on the altar, a string of pearls on a shelf, and a
-pothos and a fern hanging from the ceiling. The deck and the current reading float on a slim hologram
+the top right. Five plants, each a different kind and each on its own, are just for looks: a monstera
+on the floor by the altar, an English ivy trailing off the altar, a string of pearls on a shelf, a
+pothos hanging by the window and a fern hanging lower than the light. The deck and the current reading float on a slim hologram
 above the window, over the blinds but never over the glass. There is no bar, desk, chair, big screen
 or desk nook.
 
